@@ -27,7 +27,7 @@ A Python-based command-line tool that allows airline staff to look up and verify
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/airline-ticket-verification.git
+git clone https://github.com/vanshbhatia3841-beep/airline-ticket-verification
 cd airline-ticket-verification
 ```
 
@@ -135,4 +135,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Vansh** — [GitHub Profile](https://github.com/your-username)
+**Vansh** — [GitHub Profile](https://github.com/vanshbhatia3841-beep)
